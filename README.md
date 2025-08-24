@@ -114,12 +114,12 @@ This ratio-of-ratios method approximates blood oxygen saturation.
 
 ## Skills Demonstrated
 
-- Embedded firmware design
-- Digital signal processing
-- Biomedical sensing fundamentals
-- I2C integration
-- Real-time systems debugging
-- Simulation-driven development
+- Embedded firmware design: Programming microcontrollers to run device functions.
+- Digital signal processing: Interpreting sensor data to produce meaningful measurements.
+- Biomedical sensing fundamentals: Understanding how physiological signals like heart rate and oxygen saturation are measured.
+- Sensor interfacing (I2C): Connecting and communicating with sensors.
+- Real-time system debugging: Troubleshooting the device to ensure reliable performance.
+- Simulation-driven development: Using software simulations to test and refine the system before building hardware.
 
 ---
 
