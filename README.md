@@ -1,8 +1,8 @@
 # Pulse Oximeter ESP32 Project
 
-A functional pulse oximeter system built from the ground up using the ESP32 microcontroller and MAX30102 sensor. This project demonstrates real-time measurement of blood oxygen saturation (SpO₂) and heart rate (BPM), displayed on a 128x64 OLED screen. A second version simulates photoplethysmography (PPG) signals, enabling full signal processing pipeline testing without hardware.
+A functional pulse oximeter system built using the ESP32 microcontroller and MAX30102 sensor. This project demonstrates real-time measurement of blood oxygen saturation (SpO₂) and heart rate (BPM), displayed on a 128x64 OLED screen. A second version simulates photoplethysmography (PPG) signals, enabling full signal processing pipeline testing without hardware.
 
-## 🧩 Why This Project Matters
+## Why This Project Matters
 
 Designed as a showcase of self-taught applied engineering in MedTech, this project reflects my ability to:
 - Translate medical sensing theory into working embedded systems
@@ -60,13 +60,13 @@ This ratio-of-ratios method approximates blood oxygen saturation.
 
 ---
 
-## 🧪 Modes
+## Modes
 
-### ✅ Hardware Version
+### Hardware Version
 - Uses real data from MAX30102
 - Outputs live BPM/SpO₂ to OLED
 
-### 🧪 Simulated Version
+### Simulated Version
 - No sensor required
 - Generates synthetic Red/IR PPG signals
 - Follows same filtering and calculation logic
@@ -87,7 +87,7 @@ This ratio-of-ratios method approximates blood oxygen saturation.
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Requirements
 - **Libraries**:
@@ -112,7 +112,7 @@ This ratio-of-ratios method approximates blood oxygen saturation.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Embedded firmware design
 - Digital signal processing
