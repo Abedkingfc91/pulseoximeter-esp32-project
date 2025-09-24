@@ -123,12 +123,6 @@ This ratio-of-ratios method approximates blood oxygen saturation.
 
 ---
 
-## 📷 Demo Media
-
-_Add OLED photos, GIFs, or Serial Plotter screenshots if available._
-
----
-
 ## 📌 License
 
 This project is open-source under the MIT License.
